@@ -1,0 +1,6 @@
+create virtual env:
+py -m venv .venv
+
+start virtual env:
+.venv\Scripts\Activate.ps1
+
